@@ -94,13 +94,13 @@ async def help(bot, update):
 async def about(bot, update):
     
     buttons = [[
-        InlineKeyboardButton('👤 @𝙼𝚛𝚔_𝚈𝚃 👤', url='https://t.me/MRK_YT')
-    ],[
-        InlineKeyboardButton('👤 @𝙰𝚕𝚋𝚎𝚛𝚝𝙴𝚒𝚗𝚜𝚝𝚎𝚒𝚗𝚃𝙶 👤', url='https://t.me/AlbertEinstein_TG')
-    ],[
-        InlineKeyboardButton('🏠 𝙷𝚘𝚖𝚎', callback_data='start'),
-        InlineKeyboardButton('𝙲𝚕𝚘𝚜𝚎 🔐', callback_data='close')
-    ]]
+            InlineKeyboardButton('👤 @mr_anshu_07 👤', url='https://t.me/mr_anshu_07')
+        ],[
+            InlineKeyboardButton('Backup @UniversalSociety', url='https://t.me/UniversalSociety')
+        ],[
+            InlineKeyboardButton('🏠 𝙷𝚘𝚖𝚎', callback_data='start'),
+            InlineKeyboardButton('𝙲𝚕𝚘𝚜𝚎 🔐', callback_data='close')
+        ]]
     reply_markup = InlineKeyboardMarkup(buttons)
     
     await bot.send_message(
