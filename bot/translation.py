@@ -51,9 +51,9 @@ class Translation(object):
     
     ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Pro Movies Bot</b>
     
-<b>➥ 😎Sol Group</b> : <b>@mr_anshu_07</b> 
+<b>➥ 😎Sol Group</b> : <b>@joinusforbcomupdate</b> 
 
-<b>➥ 👨‍💻SolChannel</b> : <b>@mr_anshu_07</b>
+<b>➥ 👨‍💻SolChannel</b> : <b>@sol_allupdate</b>
 
 <b>➥ 🗣️Language</b> : <b>Python3</b>
 
