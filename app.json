@@ -29,6 +29,7 @@
         },
         "USER_SESSION": {
             "description": "A Pyrogram User Session String. Generated From @MT_UserSession_BoT",
+            "required": false,
             "value": ""
         }
     },
