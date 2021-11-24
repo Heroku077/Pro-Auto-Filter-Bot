@@ -7,9 +7,9 @@
         "Filter",
         "Mongo DB"
     ],
-    "website": "https://github.com/MRK-YT",
-    "repository": "https://github.com/MRK-YT/Pro-Auto-Filter-Bot",
-    "success_url": "https://telegram.dog/mo_tech_yt/26",
+    "website": "https://t.me/mr_anshu_07",
+    "repository": "https://github.com/Heroku077/Pro-Auto-Filter-Bot",
+    "success_url": "https://t.me/mr_anshu_07",
     "env": {
         "APP_ID": {
             "description": "Your APP ID From my.telegram.org or @MT_MyTelegramOrg_Bot",
